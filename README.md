@@ -7,12 +7,12 @@ I'm a data scientist with a strong background in human movement science and biom
 - Human movement & applied science  
 - Data systems & automation  
 - Career transitions & transferable skills  
-- Thinking clearly in messy environments  
+- Decision making in messy environments  
 
 ### 🛠 What I value
 
 - Simplicity over cleverness  
-- Learning by doing  
+- A balance between theory and practice    
 - Clear thinking > fancy code  
 - Building bridges between fields  
 
