@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Simon Bastide
 
-<!--
-**simIDe/simIDe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data scientist with a strong background in human movement science and biomechanics.
 
-Here are some ideas to get you started:
+### 👀 I'm interested in
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Human movement & applied science  
+- Data systems & automation  
+- Career transitions & transferable skills  
+- Thinking clearly in messy environments  
+
+### 🛠 What I value
+
+- Simplicity over cleverness  
+- Learning by doing  
+- Clear thinking > fancy code  
+- Building bridges between fields  
+
+---
+
+📬 Always open to meaningful conversations.
